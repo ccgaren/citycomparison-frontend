@@ -1,0 +1,1 @@
+export const Authorised_Pages = ['weather'];
